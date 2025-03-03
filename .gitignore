@@ -1,0 +1,88 @@
+Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*$py.class
+C extensions
+*.so
+Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PyInstaller
+*.manifest
+*.spec
+Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+Jupyter Notebook
+.ipynb_checkpoints
+pyenv
+.python-version
+celery beat schedule file
+celerybeat-schedule
+virtualenv
+venv/
+ENV/
+env/
+Spyder project settings
+.spyderproject
+.spyproject
+Rope project settings
+.ropeproject
+mkdocs documentation
+/site
+mypy
+.mypy_cache/
+IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+Project specific
+config/config.yaml
+config/aws_credentials.json
+config/splunk_credentials.json
+.env
+.log
+logs/
+data/raw/
+models/.h5
+models/*.pb
+models/saved_models/
+AWS
+.aws/
+TensorFlow
+.tf_models/
+Model checkpoints
+checkpoints/
+Temporary files
+tmp/
+temp/
+Credentials
+*.pem
+*.key
+*.crt
